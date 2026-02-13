@@ -1,4 +1,3 @@
-#pipeline CI
 name: Frontend CI
 
 on:
