@@ -1,7 +1,6 @@
 import { useState } from "react";
 import Login from "./pages/Login";
 import Courses from "./pages/Courses";
-//comentario
 export default function App() {
   // Revisar si ya existe token
   const [token, setToken] = useState(
